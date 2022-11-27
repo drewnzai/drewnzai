@@ -21,9 +21,9 @@
 
 ### ABOUT ME
 
-My name is **Andrew Kombe**, a full Stack Developer from Kenya.
+My name is **Andrew**, a full Stack Developer from Kenya.
 
- - I am currently a student at [Egerton University](https://www.egerton.ac.ke/) pursuing a Bsc. Computer Science degree.
+ - I am currently a student pursuing a Bsc. Computer Science degree.
  - Aside from web development, I also dabble in Penetration testing
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kombe-24bbb6213/)
  
