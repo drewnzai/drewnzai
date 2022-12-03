@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deusnoire&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=drewnzai&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ### ABOUT ME
 
-My name is **Andrew**, a full Stack Developer from Kenya.
+My name is **Andrew Nzai**, a software engineer, presently focused on *full-stack web development* from Kenya.
 
  - I am currently a student pursuing a Bsc. Computer Science degree.
  - Aside from web development, I also dabble in Penetration testing
