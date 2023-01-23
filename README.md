@@ -21,7 +21,7 @@
 
 ### ABOUT ME
 
-My name is **Andrew Nzai**, a software engineer, presently focused on *full-stack web development* from Kenya.
+My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer, presently focused on *Graphics Programming* from Kenya.
 
  - I am currently a student pursuing a Bsc. Computer Science degree.
  - Aside from web development, I also dabble in Penetration testing
