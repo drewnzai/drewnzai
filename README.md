@@ -21,10 +21,10 @@
 
 ### ABOUT ME
 
-My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer, presently focused on *Graphics Programming* from Kenya.
+My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer, from Kenya.
 
  - I am currently a student pursuing a Bsc. Computer Science degree.
- - Aside from web development, I also dabble in Penetration testing
+ - Aside from web development, I am also interested in Computer Graphics.
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kombe-24bbb6213/)
  
 I am proficient in the following technology:
