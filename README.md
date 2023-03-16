@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrew-kombe-24bbb6213/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=drewnzai&style=flat-square&color=blue" alt=""/>
@@ -25,7 +20,6 @@ My name is **Andrew Nzai**, a software engineer, primarily a full-stack web deve
 
  - I am currently a student pursuing a Bsc. Computer Science degree.
  - Aside from web development, I am also interested in Computer Graphics.
- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kombe-24bbb6213/)
  
 I am proficient in the following technology:
 
