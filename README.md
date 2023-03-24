@@ -19,7 +19,7 @@
 My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer, from Kenya.
 
  - I am currently a student pursuing a Bsc. Computer Science degree.
- - Aside from web development, I am also interested in Computer Graphics.
+ - Aside from web development, I am also interested in Penetration Testing and Exploit Development.
  
 I am proficient in the following technology:
 
