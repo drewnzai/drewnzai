@@ -18,8 +18,8 @@
 
 My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer, from Kenya.
 
- - I am currently a student pursuing a Bsc. Computer Science degree.
- - Aside from web development, I am also interested in Penetration Testing and Exploit Development.
+ - I am a student pursuing a Bsc. Computer Science degree.
+ - I am currently learning DevOps.
  
 I am proficient in the following technology:
 
@@ -27,9 +27,11 @@ I am proficient in the following technology:
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  
+  
   
 </div>
