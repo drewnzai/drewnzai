@@ -18,12 +18,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drewnzai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
   
 </div>
-### ABOUT ME
 
-My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer, from Kenya.
+###ABOUT ME
 
- - I am a student pursuing a Bsc. Computer Science degree.
- - I am currently learning DevOps.
+My name is **Andrew Nzai**, a software engineer, primarily a full-stack web developer from Kenya.
+
+ - I am a student pursuing a BSc. Computer Science degree.
+ - I am currently learning Low Level Programming.
  
 I am proficient in the following technology:
 
