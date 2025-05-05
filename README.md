@@ -25,11 +25,8 @@ ABOUT ME
 </h1>
   
 My name is **Andrew Kombe**, a software engineer, primarily a full-stack web developer from Kenya.
-
- - I am a student pursuing a BSc. Computer Science degree.
- - I am currently learning Low-Level Programming.
  
-I am proficient in the following technology:
+I am proficient in the following languages and frameworks:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Java" width="50" height="50"/>&nbsp;
